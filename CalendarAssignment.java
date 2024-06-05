@@ -2,7 +2,9 @@
 // Class: CS 141
 // Assignment: Calendar 1
 // Description: Prints out a calendar of the current month, and then requests the user for a date and prints out the calendar for that date.
-// Also prints out an Askii art above the calendar.
+//              Also prints out an Askii art above the calendar.
+// W3Schools, ChatGPT, and GeeksForGeeks have been used as a reference while creating this program
+
 import java.util.Calendar;
 import java.util.Scanner;
 import java.util.regex.*;
